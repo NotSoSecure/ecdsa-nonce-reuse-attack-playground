@@ -25,3 +25,6 @@ pip3 install -r requirement.txt
 python3 exploit.py
 ```
 
+## Reference:
+
+- [https://notsosecure.com/ecdsa-nonce-reuse-attack](https://notsosecure.com/ecdsa-nonce-reuse-attack)
